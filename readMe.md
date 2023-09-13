@@ -3,6 +3,17 @@
 ## Introduction
 The Event Booking Management project aims to create a platform that benefits retailers, customers, and manufacturers in the online marketplace. Developed using HTML, CSS, JavaScript, and PHP, this project seeks to revolutionize how offline businesses operate in rural areas and towns.
 
+### **Website link** : [Book Event](https://bookevents783.000webhostapp.com/)
+(presently not working so check Demo of project )
+### **Project Demo Youtube link** : [Book Event](https://youtu.be/e8DeITbB5VU)  
+
+## Steps to use this website locally :
+
+ - Download xampp (https://www.apachefriends.org/download.html).
+ - Unzip this folder in the path C:\xampp\htdocs
+ - Setup database in http://localhost/phpmyadmin/ and configure connect.php file located in files folder.
+ - Run on your localhost.
+
 ## Project Status
 In Progress
 
@@ -41,4 +52,27 @@ For any inquiries or feedback, please contact us at:
 - Amit Kumar: kumar_amit@iitg.ac.in
 - Umesh Prajapati: umesh_kumar@iitg.ac.in
 - Santu Manna: manna.santu@iitg.ac.in
+
+## Website images
+![image](https://user-images.githubusercontent.com/85430434/202630870-62ed508d-134c-47e2-a9dd-4489a95565ed.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202631531-d145baaf-4c10-4bc8-8126-0c1a02cca392.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202631831-b111c181-9f3a-42c1-ada1-1107001e24f6.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202632071-9b354187-f6d9-4091-9d5f-2572b1129952.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202632215-2119b6dd-1c6d-4bc3-ab43-7a1f884c52c8.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202635204-c6349ff4-b671-432f-af7f-d2523dfae016.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202633661-e20bbdf5-049d-494f-aaca-9c7ffc8caa81.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202634548-22ea5cec-d3dd-486d-902e-404f4cc3d080.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202633814-c4e7b0f3-17f7-4866-a4d1-a1a36163836b.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202633934-f00a249b-7234-4408-aa6c-87eadc722900.png)
+
+![image](https://user-images.githubusercontent.com/85430434/202635029-cf1c459b-1d63-4acb-9669-0d56b7c38ed3.png)
 
