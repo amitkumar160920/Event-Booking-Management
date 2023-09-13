@@ -22,37 +22,23 @@ Event Booking Management is a platform that bridges the gap between retailers an
 - Enhance user experience through an intuitive and user-friendly interface.
 
 ## Project Timeline
-- **Month 1:** 
+- Month 1:
   - Retailer registration and profile creation (Amit Kumar).
   - Initial UI/UX design and frontend development (Amit Kumar).
   - Database design and backend development kickoff (Umesh Prajapati).
-- **Month 2:** 
+- Month 2: 
   - Search and filter functionality implementation (Amit Kumar).
   - Multi-service booking and shopping cart development (Amit Kumar).
   - User reviews and ratings system (Amit Kumar).
   - Retailer management and customer management (Umesh Prajapati).
-- **Month 3:** 
+- Month 3: 
   - Retailer-customer communication system (Amit Kumar).
   - Manufacturer integration (Amit Kumar).
   - Security enhancements and payment gateway integration (Umesh Prajapati).
 
-## Project Structure
-[Describe the structure of your project repository, including the organization of folders and files.]
-
-## How to Contribute
-[Explain how other team members can contribute to the project, including guidelines for branching, code reviews, and pull requests.]
-
-## Getting Started
-[Provide instructions for setting up the project locally. Include steps for setting up development environments, installing dependencies, and running the project.]
-
-## Roadmap
-[Outline the project's future roadmap, including features to be added, improvements to make, and bug fixes.]
-
 ## Contact Information
 For any inquiries or feedback, please contact us at:
-- Amit Kumar: [Email]
-- Umesh Prajapati: [Email]
-- Santu Manna: [Email]
+- Amit Kumar: kumar_amit@iitg.ac.in
+- Umesh Prajapati: umesh_kumar@iitg.ac.in
+- Santu Manna: manna.santu2iitg.ac.in
 
-## Licensing
-[Specify the project's license, if applicable.]
