@@ -40,5 +40,5 @@ Event Booking Management is a platform that bridges the gap between retailers an
 For any inquiries or feedback, please contact us at:
 - Amit Kumar: kumar_amit@iitg.ac.in
 - Umesh Prajapati: umesh_kumar@iitg.ac.in
-- Santu Manna: manna.santu2iitg.ac.in
+- Santu Manna: manna.santu@iitg.ac.in
 
