@@ -1,0 +1,116 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complete Responsive Event Organizer Website Design Tutorial</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <style>
+        .navbar{
+            display: flex;
+            
+
+        }
+        [type ="submit"]{
+            background: #333;
+            color: white;
+            font-size:2rem;
+            font-weight: bold;
+            margin-left: 1.5rem;
+            font-style: monospace;
+        }
+        input:hover {
+      color: yellow;
+}
+    </style>
+</head>
+
+<body>
+
+    <!-- header section starts  -->
+
+    <header class="header">
+
+        <a href="#" class="logo"><span style="font-size:5rem">J</span>TH</a>
+        <a href="seller/slogin.html" ><button class="btn btn-outlined-info" type="button">Join Us</button>
+          </a>
+        <nav class="navbar" >
+            
+           <form action="customer/all_shops.php" method="post">
+               <input type = "submit" name = "submit" value="Tent-House">
+           </form>
+            <form action="customer/all_shops.php" method="post">
+               <input type = "submit" name = "submit" value="Catering">
+           </form>
+           <form action="customer/all_shops.php" method="post">
+               <input type = "submit" name = "submit" value="DJ-Sound">
+           </form>
+           <form action="customer/all_shops.php" method="post">
+               <input type = "submit" name = "submit" value="Photography">
+           </form>
+           <form action="customer/all_shops.php" method="post">
+               <input type = "submit" name = "submit" value="Decoration">
+           </form>
+
+
+
+        </nav>
+
+        <div id="menu-bars" class="fas fa-bars"></div>
+
+    </header>
+
+    <!-- home section starts  -->
+
+    <section class="home" id="home">
+
+        <div class="content">
+            <h3>****Your****<span> event organizers </span></h3>
+            <a href="contact_us.php" class="btn">contact us</a>
+        </div>
+
+        <div class="swiper-container home-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="IndexImage/slide-1.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="IndexImage/slide-2.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="IndexImage/slide-3.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="IndexImage/slide-4.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="IndexImage/slide-5.jpg" alt=""></div>
+                <div class="swiper-slide"><img src="IndexImage/slide-6.jpg" alt=""></div>
+                
+            </div>
+        </div>
+
+    </section>
+
+
+    <!-- theme toggler  -->
+
+    <div class="theme-toggler">
+        <div class="toggle-btn">
+        
+        </div>
+    </div>
+
+
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <!-- custom js file link  -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Seller Reg</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	
+	<link rel="stylesheet" href="../css/myform.css">
+	<link href="../Images/favicon.ico" rel="icon" type="image/x-icon" />
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet'>
+  
+</head>
+<body >
+
+	
+					
+						<form  style="margin-top:2.8rem" method="post" action="cust_reg.php"  style="text-align: center; margin-top: 8px;">
+						
+						<h1> Sign up</h1>
+
+						<div class="row Signup">
+						<input type="hidden">
+						</div>
+							<div class="row Signup">
+						<input type="text" name="name" placeholder="Name" required="required">
+						</div>
+                        <div class="row Signup">
+						<input type="number" name="contactNo1" placeholder="Contact No1.." required="required" minlength="10" maxlength="10" title="Contact number is not right" >
+						</div>
+                         <div class="row Signup">
+						<input type="number" name="contactNo2" placeholder="Contact No2.."  minlength="10" maxlength="10" title="Contact number is not right" >
+						</div>                   
+						<div class="row Signup">
+						<input type="text" name="venue" placeholder="Venue" required="required">
+						</div>
+						<div class="row Signup">
+						<input type="email" name="email" placeholder="Email-id" required="required">	
+						</div>
+						
+						
+						
+                                              
+                        <div class="row Signup">
+                        start date 		
+						<input type="date"  name="start-date" placeholder="start date" required="required">
+						end date
+						<input type="date"  name="end-date"  required="required">
+						</div> 
+						<div class="row Signup"> 		
+						<input type="text"  name="time" placeholder="time" required="required">
+						</div>
+						<div>
+							<p>Any Query</p>
+							<textarea name ='comment' style="width:320px;height: 100px;resize: none;font-size: large;"></textarea>
+						</div>
+						<br>
+						<input id="submit" type="submit" name="submit" value="Register"  class="button">
+						<br>
+						
+						</p>
+
+						</form>
+
+						
+</body>
+</html>
+
