@@ -64,6 +64,5 @@ For any inquiries or feedback, please contact us at:
 
 ![image](https://user-images.githubusercontent.com/85430434/202632215-2119b6dd-1c6d-4bc3-ab43-7a1f884c52c8.png)
 
-![image](https://user-images.githubusercontent.com/85430434/202635204-c6349ff4-b671-432f-af7f-d2523dfae016.png)
 
 
